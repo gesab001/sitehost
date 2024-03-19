@@ -1,0 +1,2 @@
+HOW TO FIND PHP.INI IN UBUNTU
+sudo find / -name php.ini
