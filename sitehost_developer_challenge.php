@@ -13,8 +13,8 @@
 	$params['apikey'] = $_GET['apikey'];
 	$url_params = http_build_query($params);
 	$url_sitehost = $API_Server . '/' . $API_Version . '/srs' . '/' . $filename . '.' . $Format . '?' . $url_params;
-	echo $url_sitehost . PHP_EOL;
-	echo 'https://api.demo.sitehost.co.nz/1.0/srs/list_domains.json?client_id={client_id}&apikey={api_key}' . PHP_EOL;
+	echo $url_sitehost . "<br>"; 
+	echo 'https://api.demo.sitehost.co.nz/1.0/srs/list_domains.json?client_id={client_id}&apikey={api_key}' . "<br>";
 	// Initializing curl
 	$curl = curl_init();
 
