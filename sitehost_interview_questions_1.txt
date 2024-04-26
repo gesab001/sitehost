@@ -1,0 +1,19 @@
+why choose to work at sitehost
+
+object-oriented programming
+
+synchronous vs asynchronous programming
+
+race condition
+
+preprocessor
+
+what is the greatest challenge developers face today.
+
+
+sudo -u www-data sed -i 's/wordpress/wordpress/' /srv/www/wordpress/wp-config.php
+
+
+sudo -u www-data sed -i 's/password_here/ch5t8k4u/' /srv/www/wordpress/wp-config.php
+
+http://120.138.30.124:81/wp-admin/

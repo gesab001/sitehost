@@ -1,2 +1,14 @@
+CHECK LINUX VERSION
+lsb_release -a
+
+INSTALL LAMP 
+https://www.digitalocean.com/community/tutorials/how-to-install-lamp-stack-on-ubuntu
+
 HOW TO FIND PHP.INI IN UBUNTU
 sudo find / -name php.ini
+
+INSTALL CURL
+sudo apt-get install php-curl
+
+CURL COMMAND TO FETCH PHP 
+curl -GET 'http://192.168.1.15:8084/sitehost_developer_challenge.php?book=1&chapter=1&verse=1&apikey=1&client_id=1'
