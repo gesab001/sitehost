@@ -1,12 +1,12 @@
 why choose to work at sitehost
 
-object-oriented programming
+what is object-oriented programming
 
-synchronous vs asynchronous programming
+what is synchronous vs asynchronous programming
 
-race condition
+what is race condition
 
-preprocessor
+what is preprocessor
 
 what is the greatest challenge developers face today.
 
